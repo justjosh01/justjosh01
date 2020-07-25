@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>FD<br>
   Second description 
   <br>SD<br>
-a
+a---------------------------
 <a href="https://www.linkedin.com/in/joshua-escala-760668126/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
